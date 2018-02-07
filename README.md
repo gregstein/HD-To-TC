@@ -9,7 +9,7 @@ Features:
 - Small Trees is installed already (viable in offline mode as well)
 - HD To TC Conversion Tool is fully compatible with Wololokingdoms and UserPatch.
 
-# Why this HD To TC?
+# Why HD To TC?
 
 I mainly created this tool to make playing versus famous AIs (such as Barbarian) possible. This tool should be a replacement for compatibility patch. In fact, Once you install "HD To TC Conversion Tool" you no longer need to install it again.. Just once!
 
