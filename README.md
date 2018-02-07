@@ -2,7 +2,7 @@
 This tool will convert Age of Empires II HD to The Conquerors and create a seperate installation folder. You can also auto configure Voobly to start playing multiplayer instantly.
 
 Features:
-
+- Performs better than Compatibility Patch ( No display errors, no missing fonts, and many other issues that some HD players usually encounter while using compatibility patch for Voobly.)
 - Fully functional challenging AIs are included such as (Barbarians, The_Unknown, Gandalf)
 - Game Massively Optimized to perform as fast as possible.
 - Auto-Configure Voobly to start playing multiplayer instantly without any hassle.
