@@ -8,6 +8,7 @@ This tool will convert Age of Empires II HD to The Conquerors and create a seper
 
 **Step 2:** Run The tool and wait for a screen with 3 buttons steps https://image.prntscr.com/image/tFt3fx_KTFKfeTxXEynzoA.png
 
+(Live Demonstration: https://www.youtube.com/watch?v=lV7Mh-_s1rs&feature=youtu.be&t=1m57s )
 
 # Why HD To TC?
 
