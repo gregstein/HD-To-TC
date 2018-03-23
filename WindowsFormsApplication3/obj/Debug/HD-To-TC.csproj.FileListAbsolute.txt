@@ -4,10 +4,13 @@ C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\Win
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\HD To TC Conversion Tool.pdb
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Ionic.Zip.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.ServiceProcess.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Xml.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Xml.Linq.dll
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ComponentFactory.Krypton.Toolkit.xml
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.IWshRuntimeLibrary.dll
-C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\HD-To-TC.csprojResolveAssemblyReference.cache
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Interop.IWshRuntimeLibrary.dll
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\HD-To-TC.csproj.ResolveComReference.cache
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
@@ -15,3 +18,7 @@ C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\Win
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\HD-To-TC.csproj.GenerateResource.Cache
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\HD To TC Conversion Tool.exe
 C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\HD To TC Conversion Tool.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\HD-To-TC.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Greg\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ComponentFactory.Krypton.Navigator.xml
