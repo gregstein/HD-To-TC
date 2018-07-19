@@ -1,4 +1,5 @@
 
+This Project is stable and will not receive anymore support. **I recommend AoE2Tools as it includes HDToTC**: https://github.com/gregstein/AoE2Tools
 ## Disclaimer: You Must Own Age of empires 2 HD on Steam For HD To TC Conversion Tool To Work!!
 # HD-To-TC
 This tool will convert Age of Empires II HD to The Conquerors and create a seperate installation folder. You can also auto configure Voobly to start playing multiplayer instantly.
